@@ -1,0 +1,46 @@
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/card_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:focusable="true"
+    android:clickable="true"
+    android:background="?android:attr/selectableItemBackground" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:padding="16dp"
+        android:layout_height="wrap_content"
+        android:background="@color/backgroundMaterial">
+
+        <ImageView
+            android:id="@+id/user_image"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/icon"/>
+
+        <TextView
+            android:id="@+id/user_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@id/user_image"
+            android:fontFamily="sans-serif"
+            android:paddingStart="16dp"
+            android:text="Abcd Abcdef"
+            android:textColor="@color/textColorPrimary"
+            android:textSize="16sp"
+            android:layout_alignParentTop="true" />
+
+        <TextView
+            android:id="@+id/user_login"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/user_name"
+            android:layout_toEndOf="@id/user_image"
+            android:paddingStart="16dp"
+            android:textSize="16sp"
+            android:textColor="@color/textColorPrimaryLight"
+            android:text="Email" />
+
+    </RelativeLayout>
+</android.support.v7.widget.CardView>
