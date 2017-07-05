@@ -1,0 +1,106 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidProjects\TestProvectus\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from D:\AndroidProjects\TestProvectus\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from D:\AndroidProjects\TestProvectus\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\TestProvectus\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AndroidProjects\TestProvectus\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\TestProvectus\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidProjects\TestProvectus\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\AndroidProjects\TestProvectus\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\TestProvectus\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\AndroidProjects\TestProvectus\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\AndroidProjects\TestProvectus\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from D:\AndroidProjects\TestProvectus\app\src\main\AndroidManifest.xml:7:5-22:19
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Viktoriia\.android\build-cache\1a41afd02e1bb243bb7cfac438433f06d2386f2c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Viktoriia\.android\build-cache\606a4951cba29e5ad85480640f77a9247b3590ad\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Viktoriia\.android\build-cache\ef65222e3a0568fd8335cc7a8eb6897dba7232de\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Viktoriia\.android\build-cache\7aa0a743caf0dd6c0321b7d9a52f0effb84bfbc9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Viktoriia\.android\build-cache\1c9e2fda6d9c8e9118bb64ac34165e9ff53545af\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Viktoriia\.android\build-cache\1b95dff1e6c7a753de4f8f59c71e378ea08ed364\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Viktoriia\.android\build-cache\e833d33875dc42fdca06340085e0ab4c1f93417b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Viktoriia\.android\build-cache\4c2aba6750337b9166de55570b39f3d3da37856b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Viktoriia\.android\build-cache\21324f8c940db4813565a1318c0d0160741ab318\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Viktoriia\.android\build-cache\d9edcad027f5b5eb24b4539917f41e22cc18f2a6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Viktoriia\.android\build-cache\7062723182c25b2660903a0347127449982d60dd\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Viktoriia\.android\build-cache\1a414ac1066f5cb251026c75d7c032046e6557af\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Viktoriia\.android\build-cache\c3b3d7a4dcfca4afb93eb226c80065200d7f40f4\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\AndroidProjects\TestProvectus\app\src\main\AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from D:\AndroidProjects\TestProvectus\app\src\main\AndroidManifest.xml:12:9-35
+	android:allowBackup
+		ADDED from D:\AndroidProjects\TestProvectus\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from D:\AndroidProjects\TestProvectus\app\src\main\AndroidManifest.xml:10:9-45
+	android:theme
+		ADDED from D:\AndroidProjects\TestProvectus\app\src\main\AndroidManifest.xml:13:9-40
+	android:name
+		ADDED from D:\AndroidProjects\TestProvectus\app\src\main\AndroidManifest.xml:8:9-34
+activity#viktoriia.testprovectus.MainActivity
+ADDED from D:\AndroidProjects\TestProvectus\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from D:\AndroidProjects\TestProvectus\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AndroidProjects\TestProvectus\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidProjects\TestProvectus\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from D:\AndroidProjects\TestProvectus\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidProjects\TestProvectus\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from D:\AndroidProjects\TestProvectus\app\src\main\AndroidManifest.xml:18:27-74
+activity#viktoriia.testprovectus.UserInfoActivity
+ADDED from D:\AndroidProjects\TestProvectus\app\src\main\AndroidManifest.xml:21:9-63
+	android:name
+		ADDED from D:\AndroidProjects\TestProvectus\app\src\main\AndroidManifest.xml:21:19-51
+uses-sdk
+INJECTED from D:\AndroidProjects\TestProvectus\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Viktoriia\.android\build-cache\1a41afd02e1bb243bb7cfac438433f06d2386f2c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Viktoriia\.android\build-cache\606a4951cba29e5ad85480640f77a9247b3590ad\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\Viktoriia\.android\build-cache\ef65222e3a0568fd8335cc7a8eb6897dba7232de\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Viktoriia\.android\build-cache\7aa0a743caf0dd6c0321b7d9a52f0effb84bfbc9\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Viktoriia\.android\build-cache\1c9e2fda6d9c8e9118bb64ac34165e9ff53545af\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Viktoriia\.android\build-cache\1b95dff1e6c7a753de4f8f59c71e378ea08ed364\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Viktoriia\.android\build-cache\be22652c7ef084932b446af910328432a32816df\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Viktoriia\.android\build-cache\e833d33875dc42fdca06340085e0ab4c1f93417b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Viktoriia\.android\build-cache\4c2aba6750337b9166de55570b39f3d3da37856b\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Viktoriia\.android\build-cache\21324f8c940db4813565a1318c0d0160741ab318\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Viktoriia\.android\build-cache\d9edcad027f5b5eb24b4539917f41e22cc18f2a6\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Viktoriia\.android\build-cache\7062723182c25b2660903a0347127449982d60dd\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Viktoriia\.android\build-cache\1a414ac1066f5cb251026c75d7c032046e6557af\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Viktoriia\.android\build-cache\c3b3d7a4dcfca4afb93eb226c80065200d7f40f4\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Viktoriia\.android\build-cache\ef65222e3a0568fd8335cc7a8eb6897dba7232de\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\AndroidProjects\TestProvectus\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\TestProvectus\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidProjects\TestProvectus\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\TestProvectus\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\Viktoriia\.android\build-cache\1a41afd02e1bb243bb7cfac438433f06d2386f2c\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:design:25.3.1] C:\Users\Viktoriia\.android\build-cache\ef65222e3a0568fd8335cc7a8eb6897dba7232de\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Viktoriia\.android\build-cache\7aa0a743caf0dd6c0321b7d9a52f0effb84bfbc9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Viktoriia\.android\build-cache\1c9e2fda6d9c8e9118bb64ac34165e9ff53545af\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Viktoriia\.android\build-cache\1b95dff1e6c7a753de4f8f59c71e378ea08ed364\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Viktoriia\.android\build-cache\be22652c7ef084932b446af910328432a32816df\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Viktoriia\.android\build-cache\e833d33875dc42fdca06340085e0ab4c1f93417b\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Viktoriia\.android\build-cache\4c2aba6750337b9166de55570b39f3d3da37856b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Viktoriia\.android\build-cache\21324f8c940db4813565a1318c0d0160741ab318\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Viktoriia\.android\build-cache\d9edcad027f5b5eb24b4539917f41e22cc18f2a6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Viktoriia\.android\build-cache\7062723182c25b2660903a0347127449982d60dd\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Viktoriia\.android\build-cache\1a414ac1066f5cb251026c75d7c032046e6557af\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Viktoriia\.android\build-cache\c3b3d7a4dcfca4afb93eb226c80065200d7f40f4\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\Viktoriia\.android\build-cache\1a41afd02e1bb243bb7cfac438433f06d2386f2c\output\AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\Viktoriia\.android\build-cache\1a41afd02e1bb243bb7cfac438433f06d2386f2c\output\AndroidManifest.xml:23:9-47

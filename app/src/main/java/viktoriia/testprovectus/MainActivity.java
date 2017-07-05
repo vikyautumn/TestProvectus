@@ -1,9 +1,8 @@
 package viktoriia.testprovectus;
 
 import android.content.Intent;
-import android.support.v7.app.ActionBar;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
@@ -12,14 +11,13 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import viktoriia.testprovectus.data.PostModel;
-import viktoriia.testprovectus.data.Result;
 import java.util.ArrayList;
-import java.util.List;
 
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
+import viktoriia.testprovectus.data.PostModel;
+import viktoriia.testprovectus.data.Result;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -48,7 +46,6 @@ public class MainActivity extends AppCompatActivity {
                 pb.setVisibility(View.INVISIBLE);
                 recList.setVisibility(View.VISIBLE);
                 recList.getAdapter().notifyDataSetChanged();
-                Toast.makeText(MainActivity.this, "YES" + users.get(0).getEmail() , Toast.LENGTH_SHORT).show();
             }
 
             @Override
