@@ -64,12 +64,12 @@
         "source": "C:\\Users\\Viktoriia\\.android\\build-cache\\ef65222e3a0568fd8335cc7a8eb6897dba7232de\\output\\res\\layout\\design_navigation_item_header.xml"
     },
     {
-        "merged": "D:\\AndroidProjects\\TestProvectus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "C:\\Users\\Viktoriia\\.android\\build-cache\\7aa0a743caf0dd6c0321b7d9a52f0effb84bfbc9\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
-    },
-    {
         "merged": "D:\\AndroidProjects\\TestProvectus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
         "source": "C:\\Users\\Viktoriia\\.android\\build-cache\\7aa0a743caf0dd6c0321b7d9a52f0effb84bfbc9\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\TestProvectus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Viktoriia\\.android\\build-cache\\7aa0a743caf0dd6c0321b7d9a52f0effb84bfbc9\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
         "merged": "D:\\AndroidProjects\\TestProvectus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cardview.xml",
@@ -94,6 +94,10 @@
     {
         "merged": "D:\\AndroidProjects\\TestProvectus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
         "source": "C:\\Users\\Viktoriia\\.android\\build-cache\\7aa0a743caf0dd6c0321b7d9a52f0effb84bfbc9\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\TestProvectus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_page.xml",
+        "source": "D:\\AndroidProjects\\TestProvectus\\app\\src\\main\\res\\layout\\user_page.xml"
     },
     {
         "merged": "D:\\AndroidProjects\\TestProvectus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
@@ -134,10 +138,6 @@
     {
         "merged": "D:\\AndroidProjects\\TestProvectus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
         "source": "C:\\Users\\Viktoriia\\.android\\build-cache\\ef65222e3a0568fd8335cc7a8eb6897dba7232de\\output\\res\\layout\\design_layout_snackbar_include.xml"
-    },
-    {
-        "merged": "D:\\AndroidProjects\\TestProvectus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_info.xml",
-        "source": "D:\\AndroidProjects\\TestProvectus\\app\\src\\main\\res\\layout\\activity_user_info.xml"
     },
     {
         "merged": "D:\\AndroidProjects\\TestProvectus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
@@ -182,6 +182,10 @@
     {
         "merged": "D:\\AndroidProjects\\TestProvectus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "D:\\AndroidProjects\\TestProvectus\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\TestProvectus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_list.xml",
+        "source": "D:\\AndroidProjects\\TestProvectus\\app\\src\\main\\res\\layout\\user_list.xml"
     },
     {
         "merged": "D:\\AndroidProjects\\TestProvectus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",

@@ -1,65 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
     abi="x86"
-    api-level="23"
-    build-mode="COLD"
-    density="560dpi"
+    api-level="22"
+    build-mode="HOT_WARM"
+    density="xxhdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1499292539004"
+    timestamp="1499438883055"
     token="-4110233279505005861"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="496" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="14" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="91" />
     <task
         name="verifier"
-        duration="0" />
+        duration="3" />
 
     <artifact
-        location="D:\AndroidProjects\TestProvectus\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\AndroidProjects\TestProvectus\app\build\outputs\apk\app-debug.apk"
-        type="SPLIT_MAIN" />
+        location="D:\AndroidProjects\TestProvectus\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
 
     <build
         build-mode="FULL"
-        timestamp="1499292333085"
+        timestamp="1499433607833"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="D:\AndroidProjects\TestProvectus\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\AndroidProjects\TestProvectus\app\build\outputs\apk\app-debug.apk"
-            type="SPLIT_MAIN" />
-        <artifact
-            location="D:\AndroidProjects\TestProvectus\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\AndroidProjects\TestProvectus\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\AndroidProjects\TestProvectus\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\AndroidProjects\TestProvectus\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
-            type="SPLIT" />
-        <artifact
             location="D:\AndroidProjects\TestProvectus\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\AndroidProjects\TestProvectus\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\AndroidProjects\TestProvectus\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
             location="D:\AndroidProjects\TestProvectus\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
@@ -68,12 +41,44 @@
             location="D:\AndroidProjects\TestProvectus\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
+            location="D:\AndroidProjects\TestProvectus\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\AndroidProjects\TestProvectus\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\AndroidProjects\TestProvectus\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\AndroidProjects\TestProvectus\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\AndroidProjects\TestProvectus\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\AndroidProjects\TestProvectus\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\AndroidProjects\TestProvectus\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\AndroidProjects\TestProvectus\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\AndroidProjects\TestProvectus\app\build\outputs\apk\app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1499438472967"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
             location="D:\AndroidProjects\TestProvectus\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1499292539004"
+        timestamp="1499438747838"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="D:\AndroidProjects\TestProvectus\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
@@ -81,6 +86,22 @@
         <artifact
             location="D:\AndroidProjects\TestProvectus\app\build\outputs\apk\app-debug.apk"
             type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1499438764894"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\AndroidProjects\TestProvectus\app\build\intermediates\builds\debug\1499438764894\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1499438883055"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\AndroidProjects\TestProvectus\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

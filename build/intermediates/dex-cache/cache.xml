@@ -2,202 +2,22 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="C:\Users\Viktoriia\.android\build-cache\c3b3d7a4dcfca4afb93eb226c80065200d7f40f4\output\jars\classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="D:\AndroidProjects\TestProvectus\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="D:\AndroidProjects\TestProvectus\app\build\intermediates\pre-dexed\debug\classes_7aa6ff27bf69b9e0e821028e1d34ce4862571730.jar" />
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\AndroidProjects\TestProvectus\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2471d5e255c24fbec278db4b074fe6828c65f6d3\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Viktoriia\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.3.0\bcacde6a8ccedcc56c127403d26b76072fe6214d\retrofit-2.3.0.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="D:\AndroidProjects\TestProvectus\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
-        <dex dex="D:\AndroidProjects\TestProvectus\app\build\intermediates\pre-dexed\debug\retrofit-2.3.0_6e8f911223b4d501a41520c578f5b2f7cb7ce9af.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Viktoriia\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
-        <dex dex="D:\AndroidProjects\TestProvectus\app\build\intermediates\pre-dexed\debug\gson-2.7_40139ccfbefa394c80893895b9101964876f9c2d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Viktoriia\.android\build-cache\d9edcad027f5b5eb24b4539917f41e22cc18f2a6\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="D:\AndroidProjects\TestProvectus\app\build\intermediates\pre-dexed\debug\classes_50d5502e683214bfd43febd54ae70cf673e63e84.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Viktoriia\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.3.0\9e09011e9767bb76b5e27c9b8223476b93b14631\converter-gson-2.3.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
-        <dex dex="D:\AndroidProjects\TestProvectus\app\build\intermediates\pre-dexed\debug\converter-gson-2.3.0_2748d22b227db8784f036309da95c9cc3a18831b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Viktoriia\.android\build-cache\e833d33875dc42fdca06340085e0ab4c1f93417b\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
-        <dex dex="D:\AndroidProjects\TestProvectus\app\build\intermediates\pre-dexed\debug\classes_6af09c2ae55ac5d5fe123d3332c13408d2cd8c4b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Viktoriia\.android\build-cache\7062723182c25b2660903a0347127449982d60dd\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="D:\AndroidProjects\TestProvectus\app\build\intermediates\pre-dexed\debug\classes_7f2ce790e1bddb78680f84d53fd2999682ddd264.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Viktoriia\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.0\5a11f020cce2d11eb71ba916700600e18c4547e7\okhttp-3.8.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
-        <dex dex="D:\AndroidProjects\TestProvectus\app\build\intermediates\pre-dexed\debug\okhttp-3.8.0_1fefe9c12b167d42bcf2a0e16e5c12f6ec24eeaa.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Viktoriia\.android\build-cache\21324f8c940db4813565a1318c0d0160741ab318\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="D:\AndroidProjects\TestProvectus\app\build\intermediates\pre-dexed\debug\classes_4f83ace8dc53c0fec9f31223363ea776ef983b25.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Viktoriia\.android\build-cache\ef65222e3a0568fd8335cc7a8eb6897dba7232de\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
-        <dex dex="D:\AndroidProjects\TestProvectus\app\build\intermediates\pre-dexed\debug\classes_f6d1d4752dfc985502bfb73c07b70310f7541abf.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Viktoriia\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
-        <dex dex="D:\AndroidProjects\TestProvectus\app\build\intermediates\pre-dexed\debug\okio-1.13.0_1b78d05686571bf2b304208c0287b90b0025a71a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Viktoriia\.android\build-cache\4c2aba6750337b9166de55570b39f3d3da37856b\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="D:\AndroidProjects\TestProvectus\app\build\intermediates\pre-dexed\debug\classes_ec6645f380c43076726f8a7589ac1cc453a96908.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="D:\AndroidProjects\TestProvectus\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_1231db52c00db475ce2b4a7565aa18c35b78b45f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Viktoriia\.android\build-cache\1c9e2fda6d9c8e9118bb64ac34165e9ff53545af\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="D:\AndroidProjects\TestProvectus\app\build\intermediates\pre-dexed\debug\classes_2d4d36be5a154a5e96752be3c5331c974c390b9d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Viktoriia\.android\build-cache\7aa0a743caf0dd6c0321b7d9a52f0effb84bfbc9\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="D:\AndroidProjects\TestProvectus\app\build\intermediates\pre-dexed\debug\classes_e042a4fb5865bdc6f45b30dc3400b071c5313847.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Viktoriia\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
-        <dex dex="D:\AndroidProjects\TestProvectus\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_cd6af743e9fc8b25392acb14a2f584896cc8361a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Viktoriia\.android\build-cache\1a414ac1066f5cb251026c75d7c032046e6557af\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="D:\AndroidProjects\TestProvectus\app\build\intermediates\pre-dexed\debug\classes_d6b443e5df2ebd0d6f4f03b32b7d95f02d03a853.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Viktoriia\.android\build-cache\1b95dff1e6c7a753de4f8f59c71e378ea08ed364\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="D:\AndroidProjects\TestProvectus\app\build\intermediates\pre-dexed\debug\classes_61d35dc01b9a1e13d06454ba0e8f2e8732fe03a7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\AndroidSDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="D:\AndroidProjects\TestProvectus\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_7746369fa27cceb525736b4267461e18a05a6d43.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Viktoriia\.android\build-cache\606a4951cba29e5ad85480640f77a9247b3590ad\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="D:\AndroidProjects\TestProvectus\app\build\intermediates\pre-dexed\debug\classes_67fe8616181b8df817c2bb9906c1fa256ef3537c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Viktoriia\.android\build-cache\be22652c7ef084932b446af910328432a32816df\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="95519720620b553f63afc789beba9ad582807f7c">
-        <dex dex="D:\AndroidProjects\TestProvectus\app\build\intermediates\pre-dexed\debug\classes_19c9c15cdcdd95fc318fd412ef4a396f78ba91ff.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Viktoriia\.android\build-cache\1a41afd02e1bb243bb7cfac438433f06d2386f2c\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
-        <dex dex="D:\AndroidProjects\TestProvectus\app\build\intermediates\pre-dexed\debug\classes_e37b4c434419388389fa4c18550d35a48accd91c.jar" />
+        sha1="b74e9bd63d2bd066a9779df44b1e3d3a212f1623">
+        <dex dex="D:\AndroidProjects\TestProvectus\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1b8ef198667c15fc24f19e74891fe5407a933844\classes.dex" />
     </item>
 
 </items>

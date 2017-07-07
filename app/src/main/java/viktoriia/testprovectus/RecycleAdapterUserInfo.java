@@ -15,12 +15,10 @@ import java.util.ArrayList;
 
 public class RecycleAdapterUserInfo extends RecyclerView.Adapter<RecycleAdapterUserInfo.recyclerUsers> {
 
-    public ArrayList<UserInfoActivity.UserParams> params;
-    private UserInfoActivity act;
+    public ArrayList<UserPageFragment.UserParams> params;
 
-    public RecycleAdapterUserInfo(ArrayList<UserInfoActivity.UserParams> u, UserInfoActivity ma) {
+    public RecycleAdapterUserInfo(ArrayList<UserPageFragment.UserParams> u) {
         this.params = u;
-        this.act = ma;
     }
 
     @Override
@@ -30,7 +28,7 @@ public class RecycleAdapterUserInfo extends RecyclerView.Adapter<RecycleAdapterU
 
     @Override
     public void onBindViewHolder(recyclerUsers userHolder, int i) {
-        UserInfoActivity.UserParams hi = params.get(i);
+        UserPageFragment.UserParams hi = params.get(i);
         userHolder.image.setImageResource(hi.getImage());
         userHolder.param.setText(hi.getParam());
         userHolder.value.setText(hi.getValue());

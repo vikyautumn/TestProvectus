@@ -1,4 +1,7 @@
-#Thu Jul 06 01:52:07 EEST 2017
-base.0=D\:\\AndroidProjects\\TestProvectus\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Fri Jul 07 17:41:15 EEST 2017
+base.0=D\:\\AndroidProjects\\TestProvectus\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1b8ef198667c15fc24f19e74891fe5407a933844
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=D\:\\AndroidProjects\\TestProvectus\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.1=D\:\\AndroidProjects\\TestProvectus\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2471d5e255c24fbec278db4b074fe6828c65f6d3\\classes.dex
+base.1=D\:\\AndroidProjects\\TestProvectus\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2471d5e255c24fbec278db4b074fe6828c65f6d3
+file.0=D\:\\AndroidProjects\\TestProvectus\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1b8ef198667c15fc24f19e74891fe5407a933844\\classes.dex

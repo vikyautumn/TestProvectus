@@ -40,12 +40,12 @@
         "source": "D:\\AndroidProjects\\TestProvectus\\app\\src\\main\\res\\drawable\\nonedivider.xml"
     },
     {
-        "merged": "D:\\AndroidProjects\\TestProvectus\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\phone.png",
-        "source": "D:\\AndroidProjects\\TestProvectus\\app\\src\\main\\res\\drawable\\phone.png"
-    },
-    {
         "merged": "D:\\AndroidProjects\\TestProvectus\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
         "source": "C:\\Users\\Viktoriia\\.android\\build-cache\\7aa0a743caf0dd6c0321b7d9a52f0effb84bfbc9\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\TestProvectus\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\phone.png",
+        "source": "D:\\AndroidProjects\\TestProvectus\\app\\src\\main\\res\\drawable\\phone.png"
     },
     {
         "merged": "D:\\AndroidProjects\\TestProvectus\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
@@ -60,12 +60,12 @@
         "source": "C:\\Users\\Viktoriia\\.android\\build-cache\\7aa0a743caf0dd6c0321b7d9a52f0effb84bfbc9\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "D:\\AndroidProjects\\TestProvectus\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "C:\\Users\\Viktoriia\\.android\\build-cache\\7aa0a743caf0dd6c0321b7d9a52f0effb84bfbc9\\output\\res\\drawable\\abc_ratingbar_material.xml"
-    },
-    {
         "merged": "D:\\AndroidProjects\\TestProvectus\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
         "source": "C:\\Users\\Viktoriia\\.android\\build-cache\\7aa0a743caf0dd6c0321b7d9a52f0effb84bfbc9\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\TestProvectus\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Viktoriia\\.android\\build-cache\\7aa0a743caf0dd6c0321b7d9a52f0effb84bfbc9\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
         "merged": "D:\\AndroidProjects\\TestProvectus\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
@@ -128,12 +128,12 @@
         "source": "C:\\Users\\Viktoriia\\.android\\build-cache\\7aa0a743caf0dd6c0321b7d9a52f0effb84bfbc9\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "D:\\AndroidProjects\\TestProvectus\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\Viktoriia\\.android\\build-cache\\7aa0a743caf0dd6c0321b7d9a52f0effb84bfbc9\\output\\res\\drawable\\abc_btn_borderless_material.xml"
-    },
-    {
         "merged": "D:\\AndroidProjects\\TestProvectus\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\account.png",
         "source": "D:\\AndroidProjects\\TestProvectus\\app\\src\\main\\res\\drawable\\account.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\TestProvectus\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Viktoriia\\.android\\build-cache\\7aa0a743caf0dd6c0321b7d9a52f0effb84bfbc9\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
         "merged": "D:\\AndroidProjects\\TestProvectus\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
@@ -172,12 +172,12 @@
         "source": "C:\\Users\\Viktoriia\\.android\\build-cache\\7aa0a743caf0dd6c0321b7d9a52f0effb84bfbc9\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "D:\\AndroidProjects\\TestProvectus\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\Users\\Viktoriia\\.android\\build-cache\\7aa0a743caf0dd6c0321b7d9a52f0effb84bfbc9\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
         "merged": "D:\\AndroidProjects\\TestProvectus\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calendar.png",
         "source": "D:\\AndroidProjects\\TestProvectus\\app\\src\\main\\res\\drawable\\calendar.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\TestProvectus\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Viktoriia\\.android\\build-cache\\7aa0a743caf0dd6c0321b7d9a52f0effb84bfbc9\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
         "merged": "D:\\AndroidProjects\\TestProvectus\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",

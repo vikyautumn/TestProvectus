@@ -1,4 +1,4 @@
-#Wed Jul 05 19:34:25 EEST 2017
+#Fri Jul 07 16:20:14 EEST 2017
 base.0=D\:\\AndroidProjects\\TestProvectus\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
 renamed.0=classes.dex
 file.0=D\:\\AndroidProjects\\TestProvectus\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex

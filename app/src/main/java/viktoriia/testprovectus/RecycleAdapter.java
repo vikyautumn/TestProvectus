@@ -4,12 +4,6 @@ package viktoriia.testprovectus;
  * Created by Viktoriia on 05.07.2017.
  */
 
-import android.content.Intent;
-import android.graphics.Bitmap;
-import android.graphics.BitmapShader;
-import android.graphics.Canvas;
-import android.graphics.Paint;
-import android.graphics.Shader;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -17,8 +11,8 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.squareup.picasso.Picasso;
-import com.squareup.picasso.Transformation;
+import com.bumptech.glide.Glide;
+import com.bumptech.glide.request.RequestOptions;
 
 import java.util.ArrayList;
 
@@ -27,11 +21,11 @@ import viktoriia.testprovectus.data.Result;
 public class RecycleAdapter extends RecyclerView.Adapter<RecycleAdapter.recyclerUsers> {
 
     public ArrayList<Result> users;
-    private MainActivity act;
+    private UserListFragment act;
 
-    public RecycleAdapter(ArrayList<Result> u, MainActivity ma) {
+    public RecycleAdapter(ArrayList<Result> u, UserListFragment par) {
         this.users = u;
-        this.act = ma;
+        this.act = par;
     }
 
     @Override
@@ -52,11 +46,8 @@ public class RecycleAdapter extends RecyclerView.Adapter<RecycleAdapter.recycler
 
         userHolder.login.setText(hi.getEmail());
 
-        Picasso.with(act)
-                .load(hi.getPicture().getThumbnail())
-                .error(R.drawable.icon)
-                .transform(new CircularTransformation(24))
-                .into(userHolder.image);
+        Glide.with(act).load(hi.getPicture().getThumbnail()).apply(RequestOptions.circleCropTransform()).into(userHolder.image);
+
     }
 
     @Override
@@ -88,35 +79,6 @@ public class RecycleAdapter extends RecyclerView.Adapter<RecycleAdapter.recycler
         @Override
         public void onClick(View v) {
             parent.sentPosition(getAdapterPosition());
-        }
-    }
-
-    public class CircularTransformation implements Transformation {
-
-        private int mRadius;
-        public CircularTransformation(int radius) {
-            this.mRadius = radius;
-        }
-
-        @Override
-        public Bitmap transform(final Bitmap source) {
-            final Paint paint = new Paint();
-            paint.setAntiAlias(true);
-            paint.setShader(new BitmapShader(source, Shader.TileMode.CLAMP, Shader.TileMode.CLAMP));
-
-            final Bitmap output = Bitmap.createBitmap(source.getWidth(), source.getHeight(), Bitmap.Config.ARGB_8888);
-            final Canvas canvas = new Canvas(output);
-            canvas.drawCircle(source.getWidth() / 2, source.getHeight() / 2, mRadius, paint);
-
-            if (source != output)
-                source.recycle();
-
-            return output;
-        }
-
-        @Override
-        public String key() {
-            return "circle";
         }
     }
 
